@@ -21,3 +21,7 @@ Route::get('/download', function () {
 Route::get('/news', function() {
     return view("news");
 });
+
+Route::get('/jobs', function() {
+    return view("jobs");
+});

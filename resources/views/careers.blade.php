@@ -23,6 +23,8 @@
             <a href="/news"><button>News</button></a>
         </div>
         <br>
-        <div class="centered-div"></div>
+        <div class="centered-div">
+            <a href="/jobs"><button class="view-jobs-button">View Open Jobs</button></a>
+        </div>
     </body>
 </html>

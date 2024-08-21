@@ -54,3 +54,24 @@ p {
     display: inline-block;
     vertical-align: top;
 }
+
+.view-jobs-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 10px;
+    transition: 0.3s;
+    animation: 0.3s;
+
+}
+
+.view-jobs-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+    border-radius: 10px;
+}
